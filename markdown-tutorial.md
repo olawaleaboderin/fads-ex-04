@@ -29,9 +29,6 @@ def printMyName(name):
    print(a)
 ```
 
-def printMyName(name):
-   a = name
-   print(a)
 
 ## Links and Images
 
@@ -41,3 +38,10 @@ Here is a link to a useful Markdown resource:
 
 ### Image Example
 ![Logo do ISA](./images/LogoISA.png)
+
+|ID| Column 1| Column 2| Column 3|
+|--|---------|---------|---------|
+|1 | item 1  | item 2  | item 3  |
+|2 | item 4  | item 5  | item 6  |
+
+
